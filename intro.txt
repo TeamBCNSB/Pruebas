@@ -1,0 +1,2 @@
+Este proyecto es para practicar con Git. Es por ello que no se utiliza un proyecto informático sino un "pseudo proyecto" 
+sobre la elaboración de un cuento.
