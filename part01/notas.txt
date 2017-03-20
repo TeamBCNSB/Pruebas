@@ -1,1 +1,2 @@
 En este capítulo hay que plantear el porqué Caperucita Roja tiene que encargarse de llevar la comida a su abuelita.
+Versión correspondiente al merge de master con branch.
